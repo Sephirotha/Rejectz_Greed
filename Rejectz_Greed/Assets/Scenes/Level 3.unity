@@ -8260,7 +8260,7 @@ MonoBehaviour:
   value: 0
 --- !u!114 &527057702
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -8293,7 +8293,7 @@ MonoBehaviour:
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 6
-  blockName: New Block
+  blockName: Drug Trip
   description: 
   eventHandler: {fileID: 527057702}
   commandList:
@@ -8304,7 +8304,7 @@ MonoBehaviour:
   - {fileID: 527057704}
 --- !u!114 &527057704
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -8331,7 +8331,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &527057705
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -8358,7 +8358,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &527057706
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -8385,7 +8385,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &527057707
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -8412,7 +8412,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &527057708
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
