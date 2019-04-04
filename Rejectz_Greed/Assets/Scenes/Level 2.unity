@@ -8631,15 +8631,15 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.y
       value: 242.13899
       objectReference: {fileID: 0}
-    - target: {fileID: 8876272460248082404, guid: 9b17df2af45dfc2428cf9808d9f0e225,
-        type: 3}
-      propertyPath: m_Name
-      value: Wall Crack
-      objectReference: {fileID: 0}
     - target: {fileID: 5104841461349193676, guid: 9b17df2af45dfc2428cf9808d9f0e225,
         type: 3}
       propertyPath: m_Color.a
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8876272460248082404, guid: 9b17df2af45dfc2428cf9808d9f0e225,
+        type: 3}
+      propertyPath: m_Name
+      value: Wall Crack
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9b17df2af45dfc2428cf9808d9f0e225, type: 3}
@@ -14930,15 +14930,15 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.0788
       objectReference: {fileID: 0}
-    - target: {fileID: 8876272460248082404, guid: 9b17df2af45dfc2428cf9808d9f0e225,
-        type: 3}
-      propertyPath: m_Name
-      value: Door 1
-      objectReference: {fileID: 0}
     - target: {fileID: 5104841461349193676, guid: 9b17df2af45dfc2428cf9808d9f0e225,
         type: 3}
       propertyPath: m_Color.a
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8876272460248082404, guid: 9b17df2af45dfc2428cf9808d9f0e225,
+        type: 3}
+      propertyPath: m_Name
+      value: Door 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9b17df2af45dfc2428cf9808d9f0e225, type: 3}
@@ -15115,15 +15115,15 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.0788
       objectReference: {fileID: 0}
-    - target: {fileID: 8876272460248082404, guid: 9b17df2af45dfc2428cf9808d9f0e225,
-        type: 3}
-      propertyPath: m_Name
-      value: Door 2(1)
-      objectReference: {fileID: 0}
     - target: {fileID: 5104841461349193676, guid: 9b17df2af45dfc2428cf9808d9f0e225,
         type: 3}
       propertyPath: m_Color.a
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8876272460248082404, guid: 9b17df2af45dfc2428cf9808d9f0e225,
+        type: 3}
+      propertyPath: m_Name
+      value: Door 2(1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9b17df2af45dfc2428cf9808d9f0e225, type: 3}
@@ -43867,15 +43867,15 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.y
       value: 128.19
       objectReference: {fileID: 0}
-    - target: {fileID: 8876272460248082404, guid: 9b17df2af45dfc2428cf9808d9f0e225,
-        type: 3}
-      propertyPath: m_Name
-      value: Door 2
-      objectReference: {fileID: 0}
     - target: {fileID: 5104841461349193676, guid: 9b17df2af45dfc2428cf9808d9f0e225,
         type: 3}
       propertyPath: m_Color.a
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8876272460248082404, guid: 9b17df2af45dfc2428cf9808d9f0e225,
+        type: 3}
+      propertyPath: m_Name
+      value: Door 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9b17df2af45dfc2428cf9808d9f0e225, type: 3}
@@ -44052,15 +44052,15 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.0788
       objectReference: {fileID: 0}
-    - target: {fileID: 8876272460248082404, guid: 9b17df2af45dfc2428cf9808d9f0e225,
-        type: 3}
-      propertyPath: m_Name
-      value: Door 1(1)
-      objectReference: {fileID: 0}
     - target: {fileID: 5104841461349193676, guid: 9b17df2af45dfc2428cf9808d9f0e225,
         type: 3}
       propertyPath: m_Color.a
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8876272460248082404, guid: 9b17df2af45dfc2428cf9808d9f0e225,
+        type: 3}
+      propertyPath: m_Name
+      value: Door 1(1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9b17df2af45dfc2428cf9808d9f0e225, type: 3}

@@ -8346,6 +8346,65 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
+--- !u!114 &527057709
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 527057691}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: 970
+    y: 138
+    width: 153
+    height: 40
+  tint: {r: 1, g: 1, b: 1, a: 1}
+  useCustomTint: 0
+  itemId: 112
+  blockName: New Block (Copy)
+  description: 
+  eventHandler: {fileID: 0}
+  commandList:
+  - {fileID: 527057711}
+  - {fileID: 527057710}
+--- !u!114 &527057710
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 527057691}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c657364a3b24e16bdf5946729a8b7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 14
+  indentLevel: 0
+  key: Wisdom
+  variable: {fileID: 527057700}
+--- !u!114 &527057711
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 527057691}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c657364a3b24e16bdf5946729a8b7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 13
+  indentLevel: 0
+  key: Greed
+  variable: {fileID: 527057701}
 --- !u!1 &531942142
 GameObject:
   m_ObjectHideFlags: 1
@@ -15278,15 +15337,15 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 0.29607937
       objectReference: {fileID: 0}
-    - target: {fileID: 8876272460248082404, guid: 9b17df2af45dfc2428cf9808d9f0e225,
-        type: 3}
-      propertyPath: m_Name
-      value: Drug Trip
-      objectReference: {fileID: 0}
     - target: {fileID: 5104841461349193676, guid: 9b17df2af45dfc2428cf9808d9f0e225,
         type: 3}
       propertyPath: m_Color.a
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8876272460248082404, guid: 9b17df2af45dfc2428cf9808d9f0e225,
+        type: 3}
+      propertyPath: m_Name
+      value: Drug Trip
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9b17df2af45dfc2428cf9808d9f0e225, type: 3}
@@ -24899,15 +24958,15 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1.0994253
       objectReference: {fileID: 0}
-    - target: {fileID: 8876272460248082404, guid: 9b17df2af45dfc2428cf9808d9f0e225,
-        type: 3}
-      propertyPath: m_Name
-      value: Treasure Chest
-      objectReference: {fileID: 0}
     - target: {fileID: 5104841461349193676, guid: 9b17df2af45dfc2428cf9808d9f0e225,
         type: 3}
       propertyPath: m_Color.a
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8876272460248082404, guid: 9b17df2af45dfc2428cf9808d9f0e225,
+        type: 3}
+      propertyPath: m_Name
+      value: Treasure Chest
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9b17df2af45dfc2428cf9808d9f0e225, type: 3}
@@ -26847,15 +26906,15 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1.0994253
       objectReference: {fileID: 0}
-    - target: {fileID: 8876272460248082404, guid: 9b17df2af45dfc2428cf9808d9f0e225,
-        type: 3}
-      propertyPath: m_Name
-      value: Sarcophagus
-      objectReference: {fileID: 0}
     - target: {fileID: 5104841461349193676, guid: 9b17df2af45dfc2428cf9808d9f0e225,
         type: 3}
       propertyPath: m_Color.a
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8876272460248082404, guid: 9b17df2af45dfc2428cf9808d9f0e225,
+        type: 3}
+      propertyPath: m_Name
+      value: Sarcophagus
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9b17df2af45dfc2428cf9808d9f0e225, type: 3}
