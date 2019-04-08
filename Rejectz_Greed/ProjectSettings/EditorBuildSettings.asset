@@ -5,7 +5,28 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/Level 1.unity
+    guid: 035350ef935554a49908ffa949435930
+  - enabled: 1
+    path: Assets/Scenes/Level 1.5.unity
+    guid: 2557b62c567861b4e8ffe4a8c8214902
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 95c3410d0d52f1f4ca33fe6af1d39fa4
+  - enabled: 1
+    path: Assets/Scenes/Maze Level.unity
+    guid: b3458a851fcd7884591d205b80410398
+  - enabled: 1
+    path: Assets/Scenes/SlidingTilePuzzle.unity
+    guid: c78156a8d0505db48bc2d754df2cd940
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: ec45c33965a57634fa485d95e910527b
+  - enabled: 1
+    path: Assets/Scenes/Level 3 - 1.unity
+    guid: 87dfa4b623bd484449c5d360a7cd5013
   m_configObjects: {}
