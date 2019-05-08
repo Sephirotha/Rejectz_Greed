@@ -8269,7 +8269,7 @@ MonoBehaviour:
   variable: {fileID: 1640792294}
 --- !u!114 &1640792297
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -8322,7 +8322,7 @@ MonoBehaviour:
   - {fileID: 1640792297}
 --- !u!114 &1640792299
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
